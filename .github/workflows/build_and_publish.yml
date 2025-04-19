@@ -38,5 +38,5 @@ jobs:
           python DatasetTools/build_and_publish.py \
             train.conllu \
             CoBaLD/enhanced-cobald-dataset \
-            rs \
+            sr \
             --train_fraction 0.75
